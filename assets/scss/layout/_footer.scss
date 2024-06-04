@@ -1,0 +1,128 @@
+#footer {
+    background: #f9f9f9;
+    padding-bottom: 11.25rem;
+
+    .footer-notice {
+        padding: 2.5rem;
+        background: #3c3e26;
+
+        .content + .content {
+            margin-top: 0.625rem;
+        }
+
+        .content {
+            display: flex;
+
+            .title {
+                line-height: 2.5rem;
+                font-size: 1.5rem;
+                font-weight: 500;
+                color: #ffffff;
+                width: 8.75rem;
+            }
+            a {
+                position: relative;
+                flex: 1;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                display: -webkit-box;
+                -webkit-line-clamp: 1;
+                -webkit-box-orient: vertical;
+                display: block;
+                line-height: 2.5rem;
+                font-size: 1.25rem;
+                color: rgba(255, 255, 255, 0.5);
+
+                &::after {
+                    content: '';
+                    display: block;
+                    position: absolute;
+                    right: 0;
+                    top: 50%;
+                    margin-top: -0.5625rem;
+                    width: 0.75rem;
+                    height: 1.125rem;
+                    background: url("../images/layout/arrow-right.png") no-repeat center center;
+                    background-size: contain;
+                }
+            }
+        }
+    }
+    .footer-bottom {
+        padding: 3.125rem 2.5rem;
+        
+        ul {
+            display: flex;
+            border-bottom: 1px solid #e7e7e7;
+
+            li {
+                flex: 1;
+                padding: 0.9375rem 0;
+                text-align: center;
+
+                a {
+                    line-height: 3.125rem;
+                    font-size: 1.5rem;
+                    font-weight: 600;
+                    color: #333;
+                }
+            }
+        }
+        .addr-area {
+            margin: 2.1875rem 0;
+
+            p {
+                line-height: 2.25rem;
+                font-size: 1.25rem;
+                color: #58595b;
+
+                .link {
+                    margin-left: 0.9375rem;
+                    font-weight: 600;
+                    color: #000000;
+                    text-decoration: underline;
+                }
+            }
+        }
+        .terms-area {
+            border-top: 1px solid #e7e7e7;
+
+            a {
+                font-size: 1.25rem;
+                font-weight: 500;
+            }
+        }
+        .copy {
+            display: block;
+            padding-right: 4.375rem;
+            margin-top: 1.875rem;
+            font-family: "Manrope";
+            font-weight: 400;
+            line-height: 1.875rem;
+            font-size: 1.25rem;
+            color: #58595b;
+            word-break: keep-all;
+            letter-spacing: 0;
+        }
+    }
+
+    // ad-area
+    .ad-area {
+        position: fixed;
+        left: 1.875rem;
+        bottom: 11rem;
+        z-index: 10;
+
+        .btn-close {
+            float: right;
+            margin-bottom: 0.5rem;
+            
+            &::after {
+                content: "\00d7";
+                font-size: 13.75pt;
+                color: #aaaaaa;
+                display: inline;
+            }
+        }
+    }
+}

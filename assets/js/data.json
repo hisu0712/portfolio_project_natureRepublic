@@ -1,0 +1,161 @@
+{
+    "item" : [
+        {
+            "thumb": "./assets/images/main/sc-keyword1-1.jpg",
+            "name": "그린더마 마일드 시카 세럼 (피부진정)",
+            "price": {
+                "sale": 30,
+                "curr": 16900,
+                "ori": 24000
+            },
+            "new": true,
+            "badge": ["./assets/images/main/prd-badge3.png","./assets/images/main/prd-badge4.png","./assets/images/main/prd-badge5.png","./assets/images/main/prd-badge6.png"],
+            "cate": ["keyword-all", "keyword-makeup"]
+        },
+        {
+            "thumb": "./assets/images/main/sc-keyword1-2.jpg",
+            "name": "[110ml+9ml 대용량] 그린더마 마일드 시카 수딩 크림 기획세트 (민감성 피부용)",
+            "price": {
+                "sale": 68,
+                "curr": 17500,
+                "ori": 55000
+            },
+            "new": false,
+            "badge": ["./assets/images/main/prd-badge7.png"],
+            "cate": ["keyword-all", "keyword-makeup"]
+        },
+        {
+            "thumb": "./assets/images/main/sc-keyword1-3.jpg",
+            "name": "비타페어C 샤베트 클렌징 밤",
+            "price": {
+                "sale": 64,
+                "curr": 7900,
+                "ori": 22000
+            },
+            "new": true,
+            "badge": null,
+            "cate": ["keyword-all", "keyword-makeup"]
+        },
+        {
+            "thumb": "./assets/images/main/sc-keyword1-4.jpg",
+            "name": "비타페어C 젤리 클렌징 밤",
+            "price": {
+                "sale": 64,
+                "curr": 7900,
+                "ori": 22000
+            },
+            "new": true,
+            "badge": null,
+            "cate": ["keyword-all", "keyword-makeup"]
+        },
+        {
+            "thumb": "./assets/images/main/sc-keyword2-1.jpg",
+            "name": "허니 멜팅 립 플럼핑 (11호~12호)",
+            "price": {
+                "sale": 29,
+                "curr": 9900,
+                "ori": 14000
+            },
+            "new": true,
+            "badge": ["./assets/images/main/prd-badge2.png"],
+            "cate": ["keyword-all", "keyword-pick"]
+        },
+        {
+            "thumb": "./assets/images/main/sc-keyword2-2.jpg",
+            "name": "허니 멜팅 립",
+            "price": {
+                "sale": 29,
+                "curr": 9900,
+                "ori": 14000
+            },
+            "new": true,
+            "badge": null,
+            "cate": ["keyword-all", "keyword-pick"]
+        },
+        {
+            "thumb": "./assets/images/main/sc-keyword3-1.jpg",
+            "name": "그린더마 티트리 시카 클리어 바디 미스트",
+            "price": {
+                "sale": 31,
+                "curr": 13900,
+                "ori": 20000
+            },
+            "new": true,
+            "badge": ["./assets/images/main/prd-badge7.png", "./assets/images/main/prd-badge2.png"],
+            "cate": ["keyword-all", "keyword-body"]
+        },
+        {
+            "thumb": "./assets/images/main/sc-keyword3-2.jpg",
+            "name": "그린더마 티트리 시카 아크네 바디워시",
+            "price": {
+                "sale": 31,
+                "curr": 15900,
+                "ori": 23000
+            },
+            "new": true,
+            "badge": ["./assets/images/main/prd-badge7.png", "./assets/images/main/prd-badge2.png"],
+            "cate": ["keyword-all", "keyword-body"]
+        },
+        {
+            "thumb": "./assets/images/main/sc-keyword3-3.png",
+            "name": "스킨 브리즈 바디 워시",
+            "price": {
+                "sale": 65,
+                "curr": 7700,
+                "ori": 22000
+            },
+            "new": true,
+            "badge": null,
+            "cate": ["keyword-all", "keyword-body"]
+        },
+        {
+            "thumb": "./assets/images/main/sc-keyword3-4.png",
+            "name": "스킨 브리즈 바디 로션",
+            "price": {
+                "sale": 65,
+                "curr": 7700,
+                "ori": 22000
+            },
+            "new": true,
+            "badge": null,
+            "cate": ["keyword-all", "keyword-body"]
+        },
+        {
+            "thumb": "./assets/images/main/sc-keyword3-5.jpg",
+            "name": "퍼퓸 드 네이처 바디 로션",
+            "price": {
+                "sale": 61,
+                "curr": 7700,
+                "ori": 19000
+            },
+            "new": true,
+            "badge": null,
+            "cate": ["keyword-all", "keyword-body"]
+        },
+        {
+            "thumb": "./assets/images/main/sc-keyword3-6.jpg",
+            "name": "퍼퓸 드 네이처 바디 워시",
+            "price": {
+                "sale": 61,
+                "curr": 7700,
+                "ori": 19000
+            },
+            "new": false,
+            "badge": null,
+            "cate": ["keyword-all", "keyword-body"]
+        },
+        {
+            "thumb": "./assets/images/main/sc-keyword3-7.jpg",
+            "name": "퍼퓸 드 네이처 오드 퍼퓸",
+            "price": {
+                "sale": 30,
+                "curr": 11900,
+                "ori": 17000
+            },
+            "new": false,
+            "badge": null,
+            "cate": ["keyword-all", "keyword-body"]
+        }
+    ]
+}
+

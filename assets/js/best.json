@@ -1,0 +1,206 @@
+{
+    "liveList": [
+        {
+            "rank": 1,
+            "thumb": "./assets/images/main/sc-best1-1.jpg",
+            "name": "[선착순 체험딜] 비타페어C 잡티세럼 3ml",
+            "price": {
+                "sale": 100,
+                "curr": 0,
+                "ori": 100
+            }
+        },
+        {
+            "rank": 2,
+            "thumb": "./assets/images/main/sc-best1-2.jpg",
+            "name": "[1+1] 콜드 쥬이시 프레시 갤 마스크팩",
+            "price": {
+                "sale": 50,
+                "curr": 2000,
+                "ori": 4000
+            }
+        },
+        {
+            "rank": 3,
+            "thumb": "./assets/images/main/sc-best1-3.jpg",
+            "name": "허니 멜팅 립",
+            "price": {
+                "sale": 29,
+                "curr": 9900,
+                "ori": 14000
+            }
+        },
+        {
+            "rank": 4,
+            "thumb": "./assets/images/main/sc-best1-4.jpg",
+            "name": "[160ml 대용량] 슈퍼 아쿠아 맥스 컴비네이션 수분크림 스페셜 세트",
+            "price": {
+                "sale": 51,
+                "curr": 19500,
+                "ori": 40000
+            }
+        },
+        {
+            "rank": 5,
+            "thumb": "./assets/images/main/sc-best1-5.jpg",
+            "name": "[10+10] 리얼 네이처 알로에 마스크팩",
+            "price": {
+                "sale": 10,
+                "curr": 10000,
+                "ori": 11000
+            }
+        },
+        {
+            "rank": 6,
+            "thumb": "./assets/images/main/sc-best1-6.png",
+            "name": "[볼날세일] 어린녹차 스킨케어 택3",
+            "price": {
+                "sale": 70,
+                "curr": 13500,
+                "ori": 45000
+            }
+        },
+        {
+            "rank": 7,
+            "thumb": "./assets/images/main/sc-best1-7.jpg",
+            "name": "[1+1] 캘리포니아 알로에 데일리 선블럭 SPF50+ PA++++",
+            "price": {
+                "sale": 50,
+                "curr": 1690,
+                "ori": 33000
+            }
+        },
+        {
+            "rank": 8,
+            "thumb": "./assets/images/main/sc-best1-8.jpg",
+            "name": "비타페어C 잡티세럼 스페셜 기획세트",
+            "price": {
+                "sale": 49,
+                "curr": 17900,
+                "ori": 35000
+            }
+        },
+        {
+            "rank": 9,
+            "thumb": "./assets/images/main/sc-best1-9.jpg",
+            "name": "블랙빈 탈모증상개선 샴푸 520ml ",
+            "price": {
+                "sale": 39,
+                "curr": 18900,
+                "ori": 31000
+            }
+        },
+        {
+            "rank": 10,
+            "thumb": "./assets/images/main/sc-best1-10.jpg",
+            "name": "크라이오 아이싱 마스크팩",
+            "price": {
+                "sale": 50,
+                "curr": 3300,
+                "ori": 6600
+            }
+        }
+    ],
+    "weeklyList": [
+        {
+            "rank": 1,
+            "thumb": "./assets/images/main/sc-best2-1.jpg",
+            "name": "[1+1] 콜드 쥬이시 프레시 갤 마스크팩",
+            "price": {
+                "sale": 50,
+                "curr": 2000,
+                "ori": 4000
+            }
+        },
+        {
+            "rank": 2,
+            "thumb": "./assets/images/main/sc-best2-2.jpg",
+            "name": "허니 멜팅 립",
+            "price": {
+                "sale": 29,
+                "curr": 9900,
+                "ori": 14000
+            }
+        },
+        {
+            "rank": 3,
+            "thumb": "./assets/images/main/sc-best2-3.jpg",
+            "name": "[1+1] 캘리포니아 알로에 데일리 선블럭 SPF50+ PA++++",
+            "price": {
+                "sale": 50,
+                "curr": 1690,
+                "ori": 33000
+            }
+        },
+        {
+            "rank": 4,
+            "thumb": "./assets/images/main/sc-best2-4.jpg",
+            "name": "[160ml 대용량] 슈퍼 아쿠아 맥스 컴비네이션 수분크림 스페셜 세트",
+            "price": {
+                "sale": 51,
+                "curr": 19500,
+                "ori": 40000
+            }
+        },
+        {
+            "rank": 5,
+            "thumb": "./assets/images/main/sc-best2-5.jpg",
+            "name": "프레시 허브 폼클렌징",
+            "price": {
+                "sale": 50,
+                "curr": 3300,
+                "ori": 6600
+            }
+        },
+        {
+            "rank": 6,
+            "thumb": "./assets/images/main/sc-best2-6.jpg",
+            "name": "[10+10] 리얼 네이처 알로에 마스크팩",
+            "price": {
+                "sale": 10,
+                "curr": 10000,
+                "ori": 11000
+            }
+        },
+        {
+            "rank": 7,
+            "thumb": "./assets/images/main/sc-best2-7.jpg",
+            "name": "비타페어C 잡티세럼 스페셜 기획세트",
+            "price": {
+                "sale": 49,
+                "curr": 17900,
+                "ori": 35000
+            }
+        },
+        {
+            "rank": 8,
+            "thumb": "./assets/images/main/sc-best2-8.jpg",
+            "name": "블랙빈 탈모증상개선 샴푸 520ml ",
+            "price": {
+                "sale": 39,
+                "curr": 18900,
+                "ori": 31000
+            }
+        },
+        {
+            "rank": 9,
+            "thumb": "./assets/images/main/sc-best2-9.jpg",
+            "name": "[110ml+9ml 대용량] 그린더마 마일드 시카 수딩 크림 기획세트 (민감성 피부용)",
+            "price": {
+                "sale": 68,
+                "curr": 17500,
+                "ori": 55000
+            }
+        },
+        {
+            "rank": 10,
+            "thumb": "./assets/images/main/sc-best2-10.jpg",
+            "name": "크라이오 아이싱 마스크팩",
+            "price": {
+                "sale": 50,
+                "curr": 3300,
+                "ori": 6600
+            }
+        }
+    ]
+}
